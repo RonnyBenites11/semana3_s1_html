@@ -9,3 +9,8 @@ etiqueta <a> para redireccionar
 3. Para la creacion del nav se uso EMMET que viene isntalado por defecto en visuyal studio el cual ayuda a no digitar tanto codigo >nav>ul>(li><)*4
 # tabla
 1. Se creo una tabla en la Pestaña de productos que const de 3 columnas y 3 filas en cada td existe una imagen 
+# Formularios
+para el formulario se utiliza la etiqueta form dentro de ella tenemos las etiquetas iput label y div asi como un button o en su defecto un input para hacer el enio de datos, recordar que un atributo necesario en un form es el action que es lo que hace el button de cada fromulario.
+# imagenes
+1. para las imagenes utilizamos un optimizadfor que hace que las imagenes carguen mas rapido sin bajar lka calidad de la iamgen para esto usamos https://tinypng.com/
+2. se utiliza las imagenes en vectores para no perder calidad de las imagenes a el aumentar la resolucion
